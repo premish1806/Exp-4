@@ -44,7 +44,7 @@ int main(){
 ```
 <strong> Output: </strong>
 <br>
-
+![image](https://github.com/user-attachments/assets/15492218-c459-48a4-ae0b-52ebb4f604c5)
 
 ## Conclusion:
 Through this code, we learned how bitwise operators in C++ manipulate the individual bits of boolean values. These operators allow us to perform precise operations, like combining or shifting bits, which are essential for tasks involving low-level data processing and optimization.
